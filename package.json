@@ -1,0 +1,16 @@
+{
+  "name": "eyes-playwright",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@applitools/eyes-playwright": "1.14.0",
+    "@playwright/test": "^1.31.2",
+    "dotenv": "^16.0.3",
+    "typescript": "^4.9.5"
+  }
+}
